@@ -1,0 +1,14 @@
+{"@timestamp":"2024-08-12T12:16:15.236Z","ecs.version":"1.6.0","log.level":"info","message":"Starting Service!"}
+{"@timestamp":"2024-08-12T12:17:25.870Z","ecs.version":"1.6.0","log.level":"info","message":"This is log base "}
+{"@timestamp":"2024-08-12T12:24:59.073Z","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T12:25:27.974Z","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T12:25:28.494Z","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T12:26:44.281Z","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T12:26:59.966Z","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T12:27:00.634Z","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T12:27:01.151Z","ecs.version":"1.6.0","log.level":"info","message":"This is log base "}
+{"@timestamp":"2024-08-12T12:27:01.154Z","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T12:27:01.578Z","ecs.version":"1.6.0","log.level":"info","message":"This is log base "}
+{"@timestamp":"2024-08-12T12:27:01.578Z","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T12:27:01.896Z","ecs.version":"1.6.0","log.level":"info","message":"This is log base "}
+{"@timestamp":"2024-08-12T12:27:01.896Z","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}

@@ -1,0 +1,13 @@
+{"@timestamp":"2024-08-12T16:48:01.201+0500","ecs.version":"1.6.0","log.level":"info","message":"Starting Service!"}
+{"@timestamp":"2024-08-12T16:48:03.117+0500","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T16:48:03.565+0500","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T17:00:26.585+0500","ecs.version":"1.6.0","log.level":"info","message":"Starting Service!"}
+{"@timestamp":"2024-08-12T17:00:30.069+0500","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T17:00:33.100+0500","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T17:00:33.455+0500","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T17:00:46.302+0500","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T17:00:46.614+0500","ecs.version":"1.6.0","log.level":"info","message":"Welcome Home Log"}
+{"@timestamp":"2024-08-12T17:00:57.140+0500","ecs.version":"1.6.0","log.level":"info","message":"Starting Service!"}
+{"@timestamp":"2024-08-12T17:01:36.605+0500","ecs.version":"1.6.0","log.level":"info","message":"This is log base "}
+{"@timestamp":"2024-08-12T17:01:40.494+0500","ecs.version":"1.6.0","log.level":"info","message":"This is log base "}
+{"@timestamp":"2024-08-12T17:01:41.180+0500","ecs.version":"1.6.0","log.level":"info","message":"This is log base "}
